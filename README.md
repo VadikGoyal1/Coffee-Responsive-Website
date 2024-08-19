@@ -7,10 +7,14 @@ Coffee - Coffe has a stimulation effect. So Buy me One 😜<a href="https://buym
 This is a simple website
 Pure HTML, CSS, JavaScript used
 
+## 🔗 To see the project
+
+[WebPage Preview Link](https://vadikgoyal1.github.io/Coffee-Responsive-Website)
+
 ## 👓 Preview
 <div align="center">
 <a href="https://vadikgoyal1.github.io/Coffee-Responsive-Website/" target="blank">
-  <img src="assets/img/preview.png" height="auto0" alt="authentik logo">
+  <img src="assets/img/preview.png" height="auto0" alt="authentik logo" width = "75%">
 </a>
 </div>
 
