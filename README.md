@@ -18,5 +18,16 @@ Pure HTML, CSS, JavaScript used
 </a>
 </div>
 
+
+## Cloning
+
+How to clone your project <img src="assets/img/github-logo.png" />
+```bash
+git clone https://github.com/VadikGoyal1/Coffee-Responsive-Website.git
+```
+```bash
+cd project-name
+```
+
 ## 🙏 Support
 This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
