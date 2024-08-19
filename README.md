@@ -9,7 +9,7 @@ Pure HTML, CSS, JavaScript used
 
 ## 🔗 To see the project
 
-[WebPage Preview Link](https://vadikgoyal1.github.io/Coffee-Responsive-Website)
+WebPage Preview Link [Here](https://vadikgoyal1.github.io/Coffee-Responsive-Website)
 
 ## 👓 Preview
 
